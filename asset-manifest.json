@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/chkrishnamurthy/React-todo-with-classes.git/static/css/main.3ccfa84b.chunk.css",
+    "main.js": "/chkrishnamurthy/React-todo-with-classes.git/static/js/main.0f75ed67.chunk.js",
+    "main.js.map": "/chkrishnamurthy/React-todo-with-classes.git/static/js/main.0f75ed67.chunk.js.map",
+    "runtime-main.js": "/chkrishnamurthy/React-todo-with-classes.git/static/js/runtime-main.47b9b419.js",
+    "runtime-main.js.map": "/chkrishnamurthy/React-todo-with-classes.git/static/js/runtime-main.47b9b419.js.map",
+    "static/js/2.c59f8111.chunk.js": "/chkrishnamurthy/React-todo-with-classes.git/static/js/2.c59f8111.chunk.js",
+    "static/js/2.c59f8111.chunk.js.map": "/chkrishnamurthy/React-todo-with-classes.git/static/js/2.c59f8111.chunk.js.map",
+    "static/js/3.184cb540.chunk.js": "/chkrishnamurthy/React-todo-with-classes.git/static/js/3.184cb540.chunk.js",
+    "static/js/3.184cb540.chunk.js.map": "/chkrishnamurthy/React-todo-with-classes.git/static/js/3.184cb540.chunk.js.map",
+    "index.html": "/chkrishnamurthy/React-todo-with-classes.git/index.html",
+    "static/css/main.3ccfa84b.chunk.css.map": "/chkrishnamurthy/React-todo-with-classes.git/static/css/main.3ccfa84b.chunk.css.map",
+    "static/js/2.c59f8111.chunk.js.LICENSE.txt": "/chkrishnamurthy/React-todo-with-classes.git/static/js/2.c59f8111.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/chkrishnamurthy/React-todo-with-classes.git/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.47b9b419.js",
+    "static/js/2.c59f8111.chunk.js",
+    "static/css/main.3ccfa84b.chunk.css",
+    "static/js/main.0f75ed67.chunk.js"
+  ]
+}
